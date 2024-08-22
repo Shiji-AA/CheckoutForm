@@ -4,4 +4,4 @@ Checkout Form is a web application built using the MERN stack (mongodb, express.
 
 ## Links
 
-- **Live Link**: https://cast-me-project.vercel.app/](https://checkout-form-tjc8-pdga96eo4.vercel.app/
+- **Live Link**: https://checkout-form-tjc8-pdga96eo4.vercel.app/
